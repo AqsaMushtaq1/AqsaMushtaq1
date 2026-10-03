@@ -1,17 +1,26 @@
-## Hi there 👋
+# Aqsa Mushtaq
 
-<!--
-**AqsaMushtaq1/AqsaMushtaq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a DataScience student. I enjoy learning programming and building new projects. I am working to improve my skills in software development.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category  | Technologies         |
+|-----------|----------------------|
+| Languages | Python, C#  |
+| Tools     | Git, GitHub, VS Code |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->   # Aqsa Mushtaq
+## Featured Projects
+
+### Project 1: Library Management System
+A system to manage library books, members, and records.
+
+### Project 2: CareerInn
+A system to find genuine jobs.
+
+## Education
+BS DataScience,University of Engineering and Technology,Lahore, 2025-2029
+
+## Contact
+- Email: maqsa6775@gmail.com
+- GitHub: [@AqsaMushtaq1](https://github.com/AqsaMushtaq1)
 
